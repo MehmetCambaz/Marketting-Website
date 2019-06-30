@@ -1,0 +1,65 @@
+.main{
+	background-color: #EBEAEE;
+	height: 600px;
+}
+
+.UcanGiris{
+	padding-top: 100px;
+	margin-left: 450px;
+}
+
+.input{
+	margin-top: 20px;
+	margin-left: 450px;
+}
+
+.gonder{
+	width:180px;
+	height:40px;
+	font-size: 16px;
+	margin-top:40px;
+	margin-left:80px;
+	border-radius:10px;
+	background-color: #C65800;
+	color: white;
+}
+
+.box{
+	width: 350px;
+	height: 35px;
+	border-color: #603813;
+}
+
+footer #ozellikler{
+	background-color: #EBEAEE;
+	height: 200px;
+}
+
+footer #ozellikler #memnuniyet{
+	width: 300px;
+	height: 200px;
+	margin-left: 50px;
+	background-color: #EBEAEE;
+}
+
+footer #ozellikler #aynigun{
+	width: 300px;
+	height: 200px;
+	margin-left: 350px;
+	margin-top: -200px;
+	background-color: #EBEAEE;
+}
+footer #ozellikler #ucretsiz{
+	width: 300px;
+	height: 200px;
+	margin-left: 650px;
+	margin-top: -200px;
+	background-color: #EBEAEE;
+}
+footer #ozellikler #guvenli{
+	width: 300px;
+	height: 200px;
+	margin-left: 950px;
+	margin-top: -200px;
+	background-color: #EBEAEE;
+}

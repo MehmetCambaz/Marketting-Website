@@ -1,0 +1,97 @@
+
+.container{
+	width: 85%;
+	height: 70px;
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background: white;
+}
+
+header a{
+	color:#603813;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+header ul{
+	margin: 0;
+	padding-right: 20px;
+}
+
+ul.sub-menu{
+	position:absolute;
+	background-color:white;
+	list-style:none;
+	width:125px;
+	padding-left:0px;
+	margin-left:50px;
+	opacity:0;
+}
+
+header li:hover .sub-menu{
+	opacity:1;
+}
+
+ul.sub-menu li{
+	padding-left:20px;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+header #branding{
+	float: left;
+}
+
+header nav{
+	float: right;
+	margin-top: 10px;
+}
+
+.ara{
+	margin-top: -10px;
+    margin-left: 70px;
+    
+}
+
+
+.button{
+	margin-top: -10px;
+    margin-left: 70px;
+    outline: none;
+    border-color:none;
+    background-color:white;
+    border:0;
+    color:#603813;
+    cursor:pointer;
+    font-size:14;
+}
+
+.button1{
+	margin-top: -5px;
+	border:0;
+    width:25;
+    height:25;
+	background-image:url("../Resimler/basma.png");
+}
+
+.button1:hover{
+    background-image:url("../Resimler/bas.png");
+}
+
+
+.button2{
+	margin-top: -5px;
+	background-image:url("../Resimler/sepet.png");
+	border:0;
+    width:25;
+    height:25;
+}

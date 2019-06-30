@@ -1,0 +1,72 @@
+.Product{
+	width: 85%;
+	height: 600px;
+	margin:auto;
+	margin-top:30px;
+}
+
+.ProductImage{
+	width:450px;
+	height:450px;
+	border-style:solid;
+    border-color: #C65800;
+}
+
+#img1{
+	height:100%;
+	width:100%;
+}
+
+.ProductFeature{
+	width: 620px;
+	height: 450px;
+	margin-top: -460px;
+	margin-left:500px;
+}
+
+#a1{
+	font-size:50px;
+}
+
+#a2{
+	font-size:30px;
+}
+
+#a3{
+	font-size:40px;
+}
+
+#OgutmeBoyutu{
+	width:550px;
+	height:30px;
+}
+
+.buttoneksi{
+	width:40px;
+	height:30px;
+}
+
+.buttonartı{
+	width:40px;
+	height:30px;
+}
+
+.adet{
+	font-size:20px;
+}
+
+.adetButton{
+	width:50px;
+}
+
+.button3{
+	color:white;
+	font-size:20px;
+	height:40px;
+	width:200px;
+	margin-top:20px;
+	margin-left:250px;
+	border-color:#C65800;
+	border-radius:10px;
+    background-color:#C65800;
+}

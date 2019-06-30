@@ -1,0 +1,29 @@
+.Main{
+	margin-top:0px;
+	width:100%;
+}
+
+.Urunler{
+	margin-top:50px;
+	width:1000px;
+	margin-left:300px;
+	border-left:solid;
+	border-color: #C65800;
+}
+
+.OrtaResim{
+	margin-top:20px;
+}
+
+.ProductTable{
+    width: 200px;
+	margin-left:50px;
+	text-align:center;
+}
+
+.Img{
+	width:300px;
+	height:300px;
+	border-style:solid;
+    border-color: #C65800;
+}

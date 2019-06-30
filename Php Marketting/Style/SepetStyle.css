@@ -1,0 +1,144 @@
+.Sepet{
+    width: 100%;
+	height:1400px;
+	margin:auto;
+	margin-top:30px;
+	background-color: #EBEAEE;
+}
+
+.ust_sepet{
+	width:85%;
+	margin:auto;
+	height:150px;
+	border-bottom:solid;
+	border-bottom-color:#C65800;
+}
+
+.sepet_a1{
+	font-size:40px;
+	color:#C65800;
+}
+
+.sepet_a2{
+	font-size:20px;
+	color:#C65800;
+}
+
+.UrunTablo td{
+	text-align:center;
+}
+
+.sepet_main1{
+	margin:auto;
+	width:75%;
+	height:800px;
+}
+
+.sepet_urun{
+	margin-left:100px;
+	width:100%;
+	height:300px;
+}
+
+.sepet_img{
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+#img_urun{
+	margin-left:0px;
+	margin-top:50px;
+	height:200px;
+	width:250px;
+	border-style:solid;
+    border-color: #C65800;
+}
+.sepet_info{
+	margin-top:-300px;
+	margin-left:300px;
+	width:800px;
+	height:300px;
+	float:left;
+}
+
+#sepet_baslik{
+	float:left;
+	font-size:40px;
+	color:#C65800;
+}
+
+#sepet_producer{
+	float:left;
+	font-size:30px;
+	color:#603813;
+}
+
+#sepet_boyut{
+	float:left;
+	font-size:20px;
+	color:#603813;
+}
+
+#sepet_adet{
+	float:left;
+	margin-left:20px;
+	color:#603813;
+	font-size:20px;
+}
+
+#sepet_fiyat{
+	float:left;
+	font-size:30px;
+	color:#603813;
+}
+
+.sepet_kargo{
+	width:85%;
+	height:120px;
+	margin:auto;
+	border-bottom:solid;
+	border-top:solid;
+	border-bottom-color:#C65800;
+	border-top-color:#C65800;
+}
+
+.kargo_a1{
+	font-size:30px;
+	color:#C65800;
+}
+
+.kargo_a2{
+	font-size:30px;
+	color:#603813;
+}
+
+.sepet_alt{
+	width:85%;
+	margin:auto;
+	height:150px;
+}
+
+.textarea1{
+	background-color:white; 
+	width:200px;
+	margin-left:100px;
+}
+
+.sepet_toplam{
+	margin-left:500px;
+	font-size:40px;
+	color:#C65800;
+}
+
+.sepet_ucret{
+	margin-left:560px;
+	font-size:30px;
+	color:#603813;
+}
+
+.button_cikar{
+	color:#603813;
+	font-size:20px;
+	margin-left:20px;
+}
